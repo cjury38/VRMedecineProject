@@ -1,10 +1,10 @@
 package com.epicgames.unreal;
 
-import com.YourCompany.MV50VR.OBBDownloaderService;
-import com.YourCompany.MV50VR.DownloaderActivity;
+import com.YourCompany.VRMedecineProject.OBBDownloaderService;
+import com.YourCompany.VRMedecineProject.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.YourCompany.MV50VR.OBBData;
+import com.YourCompany.VRMedecineProject.OBBData;
 
 
 public class DownloadShim
